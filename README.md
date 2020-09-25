@@ -11,7 +11,7 @@
 * Bind data from the API to the HTML to display it on the page
 * Add support for Bootstrap and Font - Awesome
 
-![]()
+![](https://github.com/Fireaxxe/DatingApp/blob/master/m2.png?raw=true)
 
 ## Module 3
 * Store passwords in the Database
